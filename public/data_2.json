@@ -1,0 +1,58 @@
+{
+    "4206942069":{
+        "id": "4206942069",
+        "s":[
+            {
+                "item_name":"batata",
+                "target":4,
+                "bought":1,
+                "replica":"lqhwekrjhw4krrqkllhqk",
+                "timestamp": 1,
+                "deleted": false
+            },
+            {
+                "item_name":"couve",
+                "target":4,
+                "bought":1,
+                "replica":"lqhwekrjhw4krrqkllhqk",
+                "timestamp": 2,
+                "deleted": false
+            },
+            {
+                "item_name":"alface",
+                "target":4,
+                "bought":1,
+                "replica":"lqhwekrjhw4krrqkllhqk",
+                "timestamp": 3,
+                "deleted": false
+            }
+        ],
+        "c":[
+            {"replica":"lqhwekrjhw4krrqkllhqk","timestamp":3}
+        ]
+    },
+    "38383838":{
+        "id": "38383838",
+        "s":[
+            {
+                "item_name":"batata",
+                "target":6,
+                "bought":2,
+                "replica":"useruseruseruser",
+                "timestamp": 1,
+                "deleted": false
+            },
+            {
+                "item_name":"couve",
+                "target":4,
+                "bought":1,
+                "replica":"useruseruseruser",
+                "timestamp": 2,
+                "deleted": false
+            }
+        ],
+        "c":[
+            {"replica":"useruseruseruser","timestamp":2}
+        ]
+    }
+}

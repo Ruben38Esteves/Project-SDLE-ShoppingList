@@ -1,0 +1,15 @@
+{
+  "changes": {
+    "items": [
+      {
+        "amount": 4,
+        "item_name": "batata"
+      },
+      {
+        "amount": 2,
+        "item_name": "couve"
+      }
+    ],
+    "list_id": "4206942069"
+  }
+}

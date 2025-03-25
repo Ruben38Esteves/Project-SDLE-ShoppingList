@@ -1,0 +1,96 @@
+{
+  "1234": {
+    "c": [
+      {
+        "replica": "c395a52b-d380-42e0-a7cd-e6a435bb59d8",
+        "timestamp": 2
+      }
+    ],
+    "s": [
+      {
+        "bought": 0,
+        "deleted": false,
+        "item_name": "batata",
+        "replica": "c395a52b-d380-42e0-a7cd-e6a435bb59d8",
+        "target": 4,
+        "timestamp": 2
+      }
+    ]
+  },
+  "38383838": {
+    "c": [
+      {
+        "replica": "useruseruseruser",
+        "timestamp": 2
+      }
+    ],
+    "s": [
+      {
+        "bought": 1,
+        "deleted": false,
+        "item_name": "couve",
+        "replica": "useruseruseruser",
+        "target": 4,
+        "timestamp": 2
+      },
+      {
+        "bought": 2,
+        "deleted": false,
+        "item_name": "batata",
+        "replica": "useruseruseruser",
+        "target": 6,
+        "timestamp": 1
+      }
+    ]
+  },
+  "4206942069": {
+    "c": [
+      {
+        "replica": "uwuuwuuwuuwu",
+        "timestamp": 3
+      },
+      {
+        "replica": "c395a52b-d380-42e0-a7cd-e6a435bb59d8",
+        "timestamp": 1
+      },
+      {
+        "replica": "lqhwekrjhw4krrqkllhqk",
+        "timestamp": 3
+      }
+    ],
+    "s": [
+      {
+        "bought": 1,
+        "deleted": false,
+        "item_name": "batata",
+        "replica": "uwuuwuuwuuwu",
+        "target": 4,
+        "timestamp": 3
+      },
+      {
+        "bought": 3,
+        "deleted": false,
+        "item_name": "alface",
+        "replica": "uwuuwuuwuuwu",
+        "target": 6,
+        "timestamp": 1
+      },
+      {
+        "bought": 1,
+        "deleted": false,
+        "item_name": "couve",
+        "replica": "lqhwekrjhw4krrqkllhqk",
+        "target": 4,
+        "timestamp": 2
+      },
+      {
+        "bought": 3,
+        "deleted": true,
+        "item_name": "coisas",
+        "replica": "c395a52b-d380-42e0-a7cd-e6a435bb59d8",
+        "target": 6,
+        "timestamp": 1
+      }
+    ]
+  }
+}

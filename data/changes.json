@@ -1,0 +1,32 @@
+{
+  "changes": [
+    {
+      "type": "add_item",
+      "list_id": "4206942069",
+      "item_name": "batatas",
+      "amount": 3,
+      "new_amount": null
+    },
+    {
+      "type": "remove_item",
+      "list_id": "4206942069",
+      "item_name": "batatas",
+      "amount": null,
+      "new_amount": null
+    },
+    {
+      "type": "edit_item_amount",
+      "list_id": "4206942069",
+      "item_name": "batatas",
+      "amount": null,
+      "new_amount": 3
+    },
+    {
+      "type": "add_item",
+      "list_id": "4206942069",
+      "item_name": "couve flor",
+      "amount": 6,
+      "new_amount": null
+    }
+  ]
+}
